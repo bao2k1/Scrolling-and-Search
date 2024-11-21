@@ -20,7 +20,7 @@ Whenever user typing, fetch data and update the product list.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+   git clone https://github.com/bao2k1/Scrolling-and-Search.git
 2. Install dependencies:
 
 npm install
