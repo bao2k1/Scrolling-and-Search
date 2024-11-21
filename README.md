@@ -28,4 +28,6 @@ npm install
 3. Start the development server:
 
 npm start
+
+url:http://localhost:3000/home
 ![alt text](image.png)
