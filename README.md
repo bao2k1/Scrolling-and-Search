@@ -24,6 +24,7 @@ Whenever user typing, fetch data and update the product list.
 2. Install dependencies:
 
 npm install
+
 3. Start the development server:
 
 npm start
