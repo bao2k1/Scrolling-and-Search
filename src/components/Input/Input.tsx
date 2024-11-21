@@ -1,6 +1,6 @@
 import { getMergedProps } from "../../ultils/propsUtil";
-import { defaultInput, InputProp } from "./InputStyles";
-import { StyledInput } from "./InputType";
+import { defaultInput, InputProp } from "./InputTypes";
+import { StyledInput } from "./StyledInput";
 
 
 const Input:React.FC<Partial<InputProp>> = (props) => {

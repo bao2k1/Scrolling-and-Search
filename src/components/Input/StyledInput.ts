@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { InputProp } from "./InputStyles";
+import { InputProp } from "./InputTypes";
 
 const StyledInput = styled.input<InputProp>`
   padding: 0 0 0 10px;
